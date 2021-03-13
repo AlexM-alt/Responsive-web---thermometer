@@ -1,0 +1,73 @@
+body
+{
+    color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+.nav-item{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+@media (max-width: 1600px) {
+
+}
+
+h1
+{
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h2
+{
+    font-size: 55px;
+    font-weight: 400;
+    color: lightblue;
+    margin: 20px;
+}
+
+#logo{
+    padding-left: 20px;
+}
+
+section{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#download{
+    width: 50px;
+}
+
+#info{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+#info > h2{
+    color: lightblue;
+}
+
+#shortcut_articule > div{
+    margin-bottom: 40px;
+}
+
+.row img{
+    width: 100%;
+    height: auto;
+}
+
+.btn{
+    padding-left: 20px;
+}
